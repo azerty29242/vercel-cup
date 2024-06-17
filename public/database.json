@@ -1,0 +1,69 @@
+{
+  "matches": [
+    {
+      "name": "Quart de finale n°1",
+      "date": "1718706600000",
+      "teams": [0, 3],
+      "score": []
+    },
+    { "name": "Quart de finale n°2", "date": "18 Jun 2024 12:50:00 CET" },
+    { "name": "Quart de finale n°3", "date": "20 Jun 2024 12:30:00 CET" },
+    { "name": "Quart de finale n°4", "date": "20 Jun 2024 12:50:00 CET" },
+    { "name": "Demi finale n°1", "date": "24 Jun 2024 12:30:00 CET" },
+    { "name": "Demi finale n°2", "date": "24 Jun 2024 12:50:00 CET" },
+    { "name": "Petite finale", "date": "25 Jun 2024 12:45:00 CET" },
+    { "name": "Finale", "date": "27 Jun 2024 12:45:00 CET" }
+  ],
+  "teams": [
+    {
+      "id": 0,
+      "name": "Le Real des Saucisses"
+    },
+    {
+      "id": 1,
+      "name": "La 3ème Mi-Temps"
+    },
+    {
+      "id": 2,
+      "name": "Les Cucurbitacés"
+    },
+    {
+      "id": 3,
+      "name": "FC Pirates"
+    },
+    {
+      "id": 4,
+      "name": "El Farique"
+    },
+    {
+      "id": 5,
+      "name": "Les Magix's"
+    },
+    {
+      "id": 6,
+      "name": "Les Outsiders"
+    },
+    {
+      "id": 7,
+      "name": "Ajax de Vercel"
+    },
+    {
+      "id": 8,
+      "name": "The Spicy Space Potatoes"
+    },
+    {
+      "id": 9,
+      "name": "Dynamo Mètre"
+    },
+    {
+      "id": 10,
+      "name": "La Mysteam"
+    },
+    {
+      "id": 11,
+      "name": "Les Pieds Carrés"
+    }
+  ],
+  "pools": {},
+  "finals": {}
+}
